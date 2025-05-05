@@ -1,0 +1,25 @@
+.flexbox{
+margin-top: 100px;;
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ background-color: blue;
+ height: 100px;
+ align-items: center;
+}
+.item1{
+    background-color: aquamarine;
+    width: 100px;
+}
+.item2{
+    background-color: antiquewhite;
+    width: 100px;
+}
+.item3{
+    background-color: aquamarine;
+    width: 100px;
+}
+.item4{
+    background-color: antiquewhite;
+    width: 100px;
+}
